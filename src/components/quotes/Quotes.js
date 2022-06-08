@@ -31,6 +31,7 @@ const Quote = styled.p`
   text-shadow: rgba(0, 0, 0, 0.2) 1px 1px 1px;
   flex: 1;
   margin: 0;
+  color: black;
 `
 
 const Speaker = styled(Quote)`
