@@ -52,6 +52,6 @@ const Content = styled.div`
 `
 
 const NarutoImg = styled.img`
-  max-width: 50vw;
-  align-self: flex-end;
+  max-width: 57vw;
+  align-self: flex-end; ;
 `
